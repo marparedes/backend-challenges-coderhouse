@@ -3,7 +3,7 @@
 ## Getting started
 - Clone the repository
 ```
-git clone  
+git clone https://github.com/marparedes/backend-challenges-coderhouse
 ```
 - Install dependencies
 ```
